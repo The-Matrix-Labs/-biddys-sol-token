@@ -1,3 +1,11 @@
 {
-  
+  "name": "Joe Biddys",
+  "symbol": "$biddys",
+  "description": "Small description of your token.",
+  "image": "https://photos.pinksale.finance/file/pinksale-logo-upload/1710747118300-075e53c09ddf3f97b4ebdd9788e3320f.jpg",
+  "extensions": {
+    "website":"https://joebiddys.com/",
+    "twitter":"https://twitter.com/JoeBiddys",
+    "telegram":"https://t.me/joebiddys"
+  }
 }
